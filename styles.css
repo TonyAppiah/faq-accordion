@@ -100,6 +100,7 @@ hr {
 @media (min-width: 376px) {
   body {
     background-image: url(./assets/images/background-pattern-desktop.svg);
+    background-repeat: repeat-x;
   }
   main {
     margin: 10rem 2rem;
